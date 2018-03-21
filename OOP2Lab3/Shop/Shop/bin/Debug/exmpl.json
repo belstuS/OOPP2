@@ -1,0 +1,171 @@
+[
+  
+  {
+    "Name": "dfgtyhjk,",
+    "date": "\/Date(1462503600000-0300)\/",
+    "mass": 25,
+    "number": "111-111-111",
+    "price": 1.11,
+    "producer": {
+      "adress": "dfghujk",
+      "country": "fghjk",
+      "organization": "fghjk",
+      "telephone": "(111)111-1111"
+    },
+    "stockman": {
+      "adress": "dfghujk",
+      "firstName": "dfghujk",
+      "lastName": "dfghujk",
+      "secondName": "v",
+      "workExperience": "lessFivebutton"
+    },
+    "type": "Nutritive"
+  },
+  {
+    "Name": "xdcfgbh",
+    "date": "\/Date(1519614000000-0300)\/",
+    "mass": 1,
+    "number": "111-111-111",
+    "price": 1.11,
+    "producer": {
+      "adress": "xdcfgbh",
+      "country": "xdcfgbh",
+      "organization": "xdcfgbh",
+      "telephone": "(111)111-1111"
+    },
+    "stockman": {
+      "adress": "xdcfgbh",
+      "firstName": "xdcfgbh",
+      "lastName": "xdcfgbh",
+      "secondName": "xdcfgbh",
+      "workExperience": "lessFivebutton"
+    },
+    "type": "Nutritive"
+  },
+  {
+    "Name": "sdfgfds",
+    "date": "\/Date(1518660000000-0200)\/",
+    "mass": 28,
+    "number": "345-678-909",
+    "price": 3.11,
+    "producer": {
+      "adress": "sdfgh",
+      "country": "sdfg",
+      "organization": "sdfg",
+      "telephone": "(234)567-6789"
+    },
+    "stockman": {
+      "adress": "dfghj",
+      "firstName": "sdfg",
+      "lastName": "dfgh",
+      "secondName": "sdfgh",
+      "workExperience": "lessFivebutton"
+    },
+    "type": "Nutritive"
+  },
+  {
+    "Name": "ddddddd",
+    "date": "\/Date(1517709600000-0200)\/",
+    "mass": 4,
+    "number": "222-222-222",
+    "price": 63.44,
+    "producer": {
+      "adress": "ddddddd",
+      "country": "ddddddd",
+      "organization": "ddddddd",
+      "telephone": "(532)234-5644"
+    },
+    "stockman": {
+      "adress": "ddddddd",
+      "firstName": "ddddddd",
+      "lastName": "ddddddd",
+      "secondName": "ddddddd",
+      "workExperience": "lessFivebutton"
+    },
+    "type": "Nutritive"
+  },
+  {
+    "Name": "ghjkl",
+    "date": "\/Date(1518746400000-0200)\/",
+    "mass": 1,
+    "number": "323-456-765",
+    "price": 2.22,
+    "producer": {
+      "adress": "dfghjk",
+      "country": "fghjk",
+      "organization": "fghjkl",
+      "telephone": "(345)678-9876"
+    },
+    "stockman": {
+      "adress": "dfghjk",
+      "firstName": "dfghjk",
+      "lastName": "dfghjk",
+      "secondName": "dfghjk",
+      "workExperience": "lessFivebutton"
+    },
+    "type": "Nutritive"
+  },
+  {
+    "Name": "dfghj",
+    "date": "\/Date(1519614000000-0300)\/",
+    "mass": 1,
+    "number": "234-565-432",
+    "price": 2.34,
+    "producer": {
+      "adress": "dfgh",
+      "country": "dfghj",
+      "organization": "sdfgh",
+      "telephone": "(234)567-8765"
+    },
+    "stockman": {
+      "adress": "dfgh",
+      "firstName": "dfgh",
+      "lastName": "dfgh",
+      "secondName": "dfgh",
+      "workExperience": "lessFivebutton"
+    },
+    "type": "Nutritive"
+  },
+  {
+    "Name": "vbhnj",
+    "date": "\/Date(1519614000000-0300)\/",
+    "mass": 1,
+    "number": "   -   -",
+    "price": 96,
+    "producer": {
+      "adress": "fghj",
+      "country": "vbnj",
+      "organization": "cvbhj",
+      "telephone": "(   )   -"
+    },
+    "stockman": {
+      "adress": "fghjk",
+      "firstName": "fghjk",
+      "lastName": "fghj",
+      "secondName": "ghjk",
+      "workExperience": "lessFivebutton"
+    },
+    "type": "Nutritive"
+  },
+  {
+    "Name": "g",
+    "date": "\/Date(1519700400000-0300)\/",
+    "mass": 1,
+    "number": "111-111-111",
+    "price": 1.11,
+    "producer": {
+      "adress": "xcvbn",
+      "country": "zcv",
+      "organization": "fghj",
+      "telephone": "(111)111-1111"
+    },
+    "stockman": {
+      "adress": "xcvbn",
+      "firstName": "xcvbn",
+      "lastName": "xcvbn",
+      "secondName": "xcvbn",
+      "workExperience": "lessFivebutton"
+    },
+    "type": "Building"
+  }
+]
